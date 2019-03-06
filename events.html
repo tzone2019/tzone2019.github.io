@@ -12,12 +12,23 @@
 
 <style media="screen">
 #bg-image{
-background-image: url("https://sharadcodes.github.io/tzone/images/1.jpg");
+background-image: url("https://tzone2019.github.io/images/1.jpg");
 height: 100%;
 background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
 background-attachment: fixed;
+}
+
+.column {
+  flex: 33%;
+  padding: 10px;
+  background:rgba(0,0,0,0.4);
+  margin: 2%;
+  font-size: 2em;
+  font-family: "Lazenby Computer";
+  border: 2px cyan solid;
+  border-radius: 5px;
 }
 </style>
 
@@ -32,18 +43,44 @@ background-attachment: fixed;
   </section>
 </section>
 
+<nav class="navigation">
+  <ul>
+    <a href="index.html">Back to Home</a>
+  </ul>
+</nav>
+
 <section class="jumbo">
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla.</p>
 </section>
 
 <section class="row jumbo" style="text-align:center;">
 
-  <section class="column" onclick="location.href='events.html';">
-      <span>EVENTS</span>
+  <section class="column" onclick="location.href='quiz.html';">
+      <span>QUIZ-A-THON</span>
   </section>
 
-  <section class="column" onclick="location.href='enquiry.html';">
-      <span>ENQUIRY</span>
+  <section class="column" onclick="location.href='pa.html';">
+      <span>PROGRAMMING AUCTION</span>
+  </section>
+
+  <section class="column" onclick="location.href='pubg.html';">
+      <span>PUBG MOBILE</span>
+  </section>
+
+</section>
+
+<section class="row jumbo" style="text-align:center;">
+
+  <section class="column" onclick="location.href='mp.html';">
+      <span>MOBILE PHOTOGRAPHY</span>
+  </section>
+
+  <section class="column" onclick="location.href='cs.html';">
+      <span>CS 1.6</span>
+  </section>
+
+  <section class="column" onclick="location.href='th.html';">
+      <span>TREASURE HUNT</span>
   </section>
 
 </section>
