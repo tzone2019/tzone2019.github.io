@@ -1,63 +1,63 @@
 @font-face {
   font-family: "IBM 3270 Narrow";
-  src: url("http://www.sharad.cf/tzone/fonts/ibm.eot"); /* IE9 Compat Modes */
-  src: url("http://www.sharad.cf/tzone/fonts/ibm.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-    url("http://www.sharad.cf/tzone/fonts/ibm.otf") format("opentype"), /* Open Type Font */
-    url("http://www.sharad.cf/tzone/fonts/ibm.svg") format("svg"), /* Legacy iOS */
-    url("http://www.sharad.cf/tzone/fonts/ibm.ttf") format("truetype"), /* Safari, Android, iOS */
-    url("http://www.sharad.cf/tzone/fonts/ibm.woff") format("woff"), /* Modern Browsers */
-    url("http://www.sharad.cf/tzone/fonts/ibm.woff2") format("woff2"); /* Modern Browsers */
+  src: url("https://www.tzone2019.cf/fonts/ibm.eot"); /* IE9 Compat Modes */
+  src: url("https://www.tzone2019.cf/fonts/ibm.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("https://www.tzone2019.cf/fonts/ibm.otf") format("opentype"), /* Open Type Font */
+    url("https://www.tzone2019.cf/fonts/ibm.svg") format("svg"), /* Legacy iOS */
+    url("https://www.tzone2019.cf/fonts/ibm.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("https://www.tzone2019.cf/fonts/ibm.woff") format("woff"), /* Modern Browsers */
+    url("https://www.tzone2019.cf/fonts/ibm.woff2") format("woff2"); /* Modern Browsers */
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "Curved square";
-  src: url("http://www.sharad.cf/tzone/fonts/cs.eot"); /* IE9 Compat Modes */
-  src: url("http://www.sharad.cf/tzone/fonts/cs.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-    url("http://www.sharad.cf/tzone/fonts/cs.otf") format("opentype"), /* Open Type Font */
-    url("http://www.sharad.cf/tzone/fonts/cs.svg") format("svg"), /* Legacy iOS */
-    url("http://www.sharad.cf/tzone/fonts/cs.ttf") format("truetype"), /* Safari, Android, iOS */
-    url("http://www.sharad.cf/tzone/fonts/cs.woff") format("woff"), /* Modern Browsers */
-    url("http://www.sharad.cf/tzone/fonts/cs.woff2") format("woff2"); /* Modern Browsers */
+  src: url("https://www.tzone2019.cf/fonts/cs.eot"); /* IE9 Compat Modes */
+  src: url("https://www.tzone2019.cf/fonts/cs.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("https://www.tzone2019.cf/fonts/cs.otf") format("opentype"), /* Open Type Font */
+    url("https://www.tzone2019.cf/fonts/cs.svg") format("svg"), /* Legacy iOS */
+    url("https://www.tzone2019.cf/fonts/cs.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("https://www.tzone2019.cf/fonts/cs.woff") format("woff"), /* Modern Browsers */
+    url("https://www.tzone2019.cf/fonts/cs.woff2") format("woff2"); /* Modern Browsers */
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Algol";
-  src: url("http://www.sharad.cf/tzone/fonts/algol.eot"); /* IE9 Compat Modes */
-  src: url("http://www.sharad.cf/tzone/fonts/algol.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-    url("http://www.sharad.cf/tzone/fonts/algol.otf") format("opentype"), /* Open Type Font */
-    url("http://www.sharad.cf/tzone/fonts/algol.svg") format("svg"), /* Legacy iOS */
-    url("http://www.sharad.cf/tzone/fonts/algol.ttf") format("truetype"), /* Safari, Android, iOS */
-    url("http://www.sharad.cf/tzone/fonts/algol.woff") format("woff"), /* Modern Browsers */
-    url("http://www.sharad.cf/tzone/fonts/algol.woff2") format("woff2"); /* Modern Browsers */
+  src: url("https://www.tzone2019.cf/fonts/algol.eot"); /* IE9 Compat Modes */
+  src: url("https://www.tzone2019.cf/fonts/algol.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("https://www.tzone2019.cf/fonts/algol.otf") format("opentype"), /* Open Type Font */
+    url("https://www.tzone2019.cf/fonts/algol.svg") format("svg"), /* Legacy iOS */
+    url("https://www.tzone2019.cf/fonts/algol.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("https://www.tzone2019.cf/fonts/algol.woff") format("woff"), /* Modern Browsers */
+    url("https://www.tzone2019.cf/fonts/algol.woff2") format("woff2"); /* Modern Browsers */
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Lazenby Computer";
-  src: url("http://www.sharad.cf/tzone/fonts/lc.eot"); /* IE9 Compat Modes */
-  src: url("http://www.sharad.cf/tzone/fonts/lc.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-    url("http://www.sharad.cf/tzone/fonts/lc.otf") format("opentype"), /* Open Type Font */
-    url("http://www.sharad.cf/tzone/fonts/lc.svg") format("svg"), /* Legacy iOS */
-    url("http://www.sharad.cf/tzone/fonts/lc.ttf") format("truetype"), /* Safari, Android, iOS */
-    url("http://www.sharad.cf/tzone/fonts/lc.woff") format("woff"), /* Modern Browsers */
-    url("http://www.sharad.cf/tzone/fonts/lc.woff2") format("woff2"); /* Modern Browsers */
+  src: url("https://www.tzone2019.cf/fonts/lc.eot"); /* IE9 Compat Modes */
+  src: url("https://www.tzone2019.cf/fonts/lc.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("https://www.tzone2019.cf/fonts/lc.otf") format("opentype"), /* Open Type Font */
+    url("https://www.tzone2019.cf/fonts/lc.svg") format("svg"), /* Legacy iOS */
+    url("https://www.tzone2019.cf/fonts/lc.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("https://www.tzone2019.cf/fonts/lc.woff") format("woff"), /* Modern Browsers */
+    url("https://www.tzone2019.cf/fonts/lc.woff2") format("woff2"); /* Modern Browsers */
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Alien Encounters";
-  src: url("http://www.sharad.cf/tzone/fonts/ae.eot"); /* IE9 Compat Modes */
-  src: url("http://www.sharad.cf/tzone/fonts/ae.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-    url("http://www.sharad.cf/tzone/fonts/ae.otf") format("opentype"), /* Open Type Font */
-    url("http://www.sharad.cf/tzone/fonts/ae.svg") format("svg"), /* Legacy iOS */
-    url("http://www.sharad.cf/tzone/fonts/ae.ttf") format("truetype"), /* Safari, Android, iOS */
-    url("http://www.sharad.cf/tzone/fonts/ae.woff") format("woff"), /* Modern Browsers */
-    url("http://www.sharad.cf/tzone/fonts/ae.woff2") format("woff2"); /* Modern Browsers */
+  src: url("https://www.tzone2019.cf/fonts/ae.eot"); /* IE9 Compat Modes */
+  src: url("https://www.tzone2019.cf/fonts/ae.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("https://www.tzone2019.cf/fonts/ae.otf") format("opentype"), /* Open Type Font */
+    url("https://www.tzone2019.cf/fonts/ae.svg") format("svg"), /* Legacy iOS */
+    url("https://www.tzone2019.cf/fonts/ae.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("https://www.tzone2019.cf/fonts/ae.woff") format("woff"), /* Modern Browsers */
+    url("https://www.tzone2019.cf/fonts/ae.woff2") format("woff2"); /* Modern Browsers */
   font-weight: normal;
   font-style: normal;
 }
