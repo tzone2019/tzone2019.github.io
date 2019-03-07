@@ -242,6 +242,10 @@ body img{
     font-size: 1em!important;
   }
 
+  .reg_button{
+    font-size: 1rem!important;
+  }
+
 }
 
 .row {
@@ -266,4 +270,21 @@ body img{
   color: black;
   transition-duration: .5s;
   cursor: pointer;
+}
+
+
+.reg_button{
+  font-size: 2rem;
+  padding: 4px;
+  border: solid 2px yellow;
+  border-radius: 5px;
+  color: yellow;
+  text-decoration: none;
+}
+
+.reg_button:hover{
+  border: solid 2px yellow;
+  background-color: yellow;
+  color: #383838;
+  transition-duration: .25s;
 }
